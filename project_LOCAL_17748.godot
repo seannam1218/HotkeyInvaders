@@ -16,11 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="ColorDefense"
-<<<<<<< HEAD
 run/main_scene="res://World/World.tscn"
-=======
-run/main_scene="res://World.tscn"
->>>>>>> 4b5c38b5d05859dfdbb491876e97250fda76524c
 config/icon="res://icon.png"
 
 [rendering]
